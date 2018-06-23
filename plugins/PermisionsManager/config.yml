@@ -1,0 +1,5 @@
+host: localhost
+database: myd_users
+username: root
+port: 3306
+table: playerData

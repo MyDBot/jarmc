@@ -1,0 +1,61 @@
+inventory:
+  content:
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: SPECTRAL_ARROW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: sd
+      lore:
+      - -721/65/627/hub
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aSave
+      lore:
+      - §9Save Order.

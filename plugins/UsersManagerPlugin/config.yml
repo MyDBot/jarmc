@@ -1,0 +1,19 @@
+# DATABASE DATA
+db_host: localhost
+db_name: mydusers
+db_user: root
+db_table_users: users
+db_table_status: status
+db_table_permissions: permissions
+db_table_skywars: skywars
+db_table_bedwars: bedwars
+db_table_eggwars: eggwars
+db_port: 3306
+login_hub_name: LOGINHUB
+register_hub_name: LOGINHUB
+main_hub_name: hub
+bedwars_hub: bedwarsHUB
+skywars_hub: skywarsHUB
+eggwars_hub: eggwarsHUB
+uhc_hub: uhcHUB
+sender_is_not_a_player: This Command is Just for Players!

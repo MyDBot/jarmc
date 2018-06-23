@@ -1,0 +1,779 @@
+[17:07:29] [Server thread/INFO]: Loading properties
+[17:07:29] [Server thread/INFO]: Default game type: ADVENTURE
+[17:07:29] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3d850ec-809c399 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[17:07:30] [Server thread/INFO]: Debug logging is disabled
+[17:07:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:07:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:07:30] [Server thread/INFO]: Generating keypair
+[17:07:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:07:31] [Server thread/INFO]: Using default channel type
+[17:07:36] [Server thread/ERROR]: Ambiguous plugin name `BBs' for files `plugins\CustomCraftingr.jar' and `plugins\bbs.jar' in `plugins'
+[17:07:39] [Server thread/ERROR]: Ambiguous plugin name `BBs' for files `plugins\npcsManager.jar' and `plugins\CustomCraftingr.jar' in `plugins'
+[17:07:41] [Server thread/ERROR]: Ambiguous plugin name `UsersManagerPlugin' for files `plugins\usersManager.jar' and `plugins\permissionsManager.jar' in `plugins'
+[17:07:42] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:07:42] [Server thread/INFO]: [BBs] Loading BBs v1.0.0
+[17:07:42] [Server thread/INFO]: [ChatColorFixer] Loading ChatColorFixer v1.0.0
+[17:07:42] [Server thread/INFO]: [KB] Loading KB v1.0.0
+[17:07:42] [Server thread/INFO]: [SetSkin] Loading SetSkin v1.0.0
+[17:07:42] [Server thread/INFO]: [WorldManager] Loading WorldManager v1.0.0
+[17:07:42] [Server thread/INFO]: [npcsPlugin] Loading npcsPlugin v1.0.0
+[17:07:42] [Server thread/INFO]: [Login] Loading Login v1.0.0
+[17:07:42] [Server thread/INFO]: [Compass] Loading Compass v1.0.0
+[17:07:42] [Server thread/INFO]: [UsersManagerPlugin] Loading UsersManagerPlugin v1.0.0
+[17:07:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:07:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:07:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:07:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:07:42] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:07:42] [Server thread/INFO]: Preparing level "LOGINHUB"
+[17:07:42] [Server thread/INFO]: -------- World Settings For [LOGINHUB] --------
+[17:07:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:07:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:07:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:07:42] [Server thread/INFO]: View Distance: 10
+[17:07:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:07:42] [Server thread/INFO]: Max TNT Explosions: 100
+[17:07:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:07:42] [Server thread/INFO]: Structure Info Saving: true
+[17:07:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:07:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:07:42] [Server thread/INFO]: Random Lighting Updates: false
+[17:07:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:07:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:07:42] [Server thread/INFO]: Mob Spawn Range: 4
+[17:07:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:07:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:07:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:07:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:07:45] [Server thread/INFO]: -------- World Settings For [LOGINHUB_nether] --------
+[17:07:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:07:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:07:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:07:45] [Server thread/INFO]: View Distance: 10
+[17:07:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:07:45] [Server thread/INFO]: Max TNT Explosions: 100
+[17:07:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:07:45] [Server thread/INFO]: Structure Info Saving: true
+[17:07:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:07:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:07:45] [Server thread/INFO]: Random Lighting Updates: false
+[17:07:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:07:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:07:45] [Server thread/INFO]: Mob Spawn Range: 4
+[17:07:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:07:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:07:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:07:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:07:46] [Server thread/INFO]: -------- World Settings For [LOGINHUB_the_end] --------
+[17:07:46] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:07:46] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:07:46] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:07:46] [Server thread/INFO]: View Distance: 10
+[17:07:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:07:46] [Server thread/INFO]: Max TNT Explosions: 100
+[17:07:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:07:46] [Server thread/INFO]: Structure Info Saving: true
+[17:07:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:07:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:07:46] [Server thread/INFO]: Random Lighting Updates: false
+[17:07:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:07:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:07:46] [Server thread/INFO]: Mob Spawn Range: 4
+[17:07:46] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:07:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:07:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:07:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:07:46] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1086460104885833095)
+[17:07:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:07:48] [Server thread/INFO]: Preparing spawn area: 24%
+[17:07:49] [Server thread/INFO]: Preparing spawn area: 48%
+[17:07:50] [Server thread/INFO]: Preparing spawn area: 57%
+[17:07:51] [Server thread/INFO]: Preparing spawn area: 81%
+[17:07:52] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5370152347009251134)
+[17:07:53] [Server thread/INFO]: Preparing spawn area: 10%
+[17:07:54] [Server thread/INFO]: Preparing spawn area: 37%
+[17:07:55] [Server thread/INFO]: Preparing spawn area: 45%
+[17:07:56] [Server thread/INFO]: Preparing spawn area: 64%
+[17:07:57] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5370152347009251134)
+[17:07:58] [Server thread/INFO]: Preparing spawn area: 62%
+[17:07:58] [Server thread/INFO]: [BBs] Enabling BBs v1.0.0
+[17:07:59] [Server thread/INFO]: [ChatColorFixer] Enabling ChatColorFixer v1.0.0
+[17:07:59] [Server thread/INFO]: [KB] Enabling KB v1.0.0
+[17:07:59] [Server thread/INFO]: [SetSkin] Enabling SetSkin v1.0.0
+[17:07:59] [Server thread/INFO]: [WorldManager] Enabling WorldManager v1.0.0
+[17:07:59] [Server thread/INFO]: [npcsPlugin] Enabling npcsPlugin v1.0.0
+[17:07:59] [Server thread/INFO]: [Login] Enabling Login v1.0.0
+[17:07:59] [Server thread/INFO]: -------- World Settings For [Login] --------
+[17:07:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:07:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:07:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:07:59] [Server thread/INFO]: View Distance: 10
+[17:07:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:07:59] [Server thread/INFO]: Max TNT Explosions: 100
+[17:07:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:07:59] [Server thread/INFO]: Structure Info Saving: true
+[17:07:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:07:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:07:59] [Server thread/INFO]: Random Lighting Updates: false
+[17:07:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:07:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:07:59] [Server thread/INFO]: Mob Spawn Range: 4
+[17:07:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:07:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:07:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:07:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:08:01] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2110627652343371716)
+[17:08:02] [Server thread/INFO]: Preparing spawn area for Login, 0%
+[17:08:03] [Server thread/INFO]: Preparing spawn area for Login, 4%
+[17:08:04] [Server thread/INFO]: Preparing spawn area for Login, 8%
+[17:08:05] [Server thread/INFO]: Preparing spawn area for Login, 8%
+[17:08:06] [Server thread/INFO]: Preparing spawn area for Login, 16%
+[17:08:07] [Server thread/INFO]: Preparing spawn area for Login, 16%
+[17:08:08] [Server thread/INFO]: Preparing spawn area for Login, 20%
+[17:08:09] [Server thread/INFO]: Preparing spawn area for Login, 20%
+[17:08:10] [Server thread/INFO]: Preparing spawn area for Login, 24%
+[17:08:11] [Server thread/INFO]: Preparing spawn area for Login, 24%
+[17:08:13] [Server thread/INFO]: Preparing spawn area for Login, 28%
+[17:08:14] [Server thread/INFO]: Preparing spawn area for Login, 28%
+[17:08:15] [Server thread/INFO]: Preparing spawn area for Login, 32%
+[17:08:16] [Server thread/INFO]: Preparing spawn area for Login, 32%
+[17:08:17] [Server thread/INFO]: Preparing spawn area for Login, 36%
+[17:08:18] [Server thread/INFO]: Preparing spawn area for Login, 40%
+[17:08:19] [Server thread/INFO]: Preparing spawn area for Login, 40%
+[17:08:20] [Server thread/INFO]: Preparing spawn area for Login, 44%
+[17:08:21] [Server thread/INFO]: Preparing spawn area for Login, 44%
+[17:08:22] [Server thread/INFO]: Preparing spawn area for Login, 48%
+[17:08:23] [Server thread/INFO]: Preparing spawn area for Login, 52%
+[17:08:24] [Server thread/INFO]: Preparing spawn area for Login, 52%
+[17:08:25] [Server thread/INFO]: Preparing spawn area for Login, 56%
+[17:08:26] [Server thread/INFO]: Preparing spawn area for Login, 57%
+[17:08:27] [Server thread/INFO]: Preparing spawn area for Login, 61%
+[17:08:29] [Server thread/INFO]: Preparing spawn area for Login, 65%
+[17:08:30] [Server thread/INFO]: Preparing spawn area for Login, 65%
+[17:08:31] [Server thread/INFO]: Preparing spawn area for Login, 69%
+[17:08:32] [Server thread/INFO]: Preparing spawn area for Login, 73%
+[17:08:33] [Server thread/INFO]: Preparing spawn area for Login, 77%
+[17:08:34] [Server thread/INFO]: Preparing spawn area for Login, 81%
+[17:08:35] [Server thread/INFO]: Preparing spawn area for Login, 85%
+[17:08:36] [Server thread/INFO]: Preparing spawn area for Login, 89%
+[17:08:37] [Server thread/INFO]: Preparing spawn area for Login, 93%
+[17:08:38] [Server thread/INFO]: Preparing spawn area for Login, 97%
+[17:08:39] [Server thread/INFO]: [Compass] Enabling Compass v1.0.0
+[17:08:41] [Server thread/INFO]: [UsersManagerPlugin] Enabling UsersManagerPlugin v1.0.0
+[17:08:41] [Server thread/INFO]: -------- World Settings For [hub] --------
+[17:08:41] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:08:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:08:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:08:41] [Server thread/INFO]: View Distance: 10
+[17:08:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:08:41] [Server thread/INFO]: Max TNT Explosions: 100
+[17:08:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:08:41] [Server thread/INFO]: Structure Info Saving: true
+[17:08:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:08:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:08:41] [Server thread/INFO]: Random Lighting Updates: false
+[17:08:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:08:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:08:41] [Server thread/INFO]: Mob Spawn Range: 4
+[17:08:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:08:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:08:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:08:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:08:42] [Server thread/INFO]: Preparing start region for level 4 (Seed: -5898503591033881447)
+[17:08:43] [Server thread/INFO]: Preparing spawn area for hub, 24%
+[17:08:44] [Server thread/INFO]: Preparing spawn area for hub, 61%
+[17:08:45] [Server thread/INFO]: -------- World Settings For [skywarsHUB] --------
+[17:08:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:08:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:08:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:08:45] [Server thread/INFO]: View Distance: 10
+[17:08:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:08:45] [Server thread/INFO]: Max TNT Explosions: 100
+[17:08:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:08:45] [Server thread/INFO]: Structure Info Saving: true
+[17:08:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:08:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:08:45] [Server thread/INFO]: Random Lighting Updates: false
+[17:08:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:08:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:08:45] [Server thread/INFO]: Mob Spawn Range: 4
+[17:08:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:08:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:08:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:08:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:08:45] [Server thread/INFO]: Preparing start region for level 5 (Seed: 2290839740761122722)
+[17:08:46] [Server thread/INFO]: Preparing spawn area for skywarsHUB, 4%
+[17:08:47] [Server thread/INFO]: Preparing spawn area for skywarsHUB, 28%
+[17:08:48] [Server thread/INFO]: Preparing spawn area for skywarsHUB, 53%
+[17:08:49] [Server thread/INFO]: Preparing spawn area for skywarsHUB, 81%
+[17:08:50] [Server thread/INFO]: -------- World Settings For [eggwarsHUB] --------
+[17:08:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:08:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:08:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:08:50] [Server thread/INFO]: View Distance: 10
+[17:08:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:08:50] [Server thread/INFO]: Max TNT Explosions: 100
+[17:08:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:08:50] [Server thread/INFO]: Structure Info Saving: true
+[17:08:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:08:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:08:50] [Server thread/INFO]: Random Lighting Updates: false
+[17:08:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:08:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:08:50] [Server thread/INFO]: Mob Spawn Range: 4
+[17:08:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:08:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:08:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:08:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:08:51] [Server thread/INFO]: Preparing start region for level 6 (Seed: -5827455529325783417)
+[17:08:52] [Server thread/INFO]: Preparing spawn area for eggwarsHUB, 0%
+[17:08:53] [Server thread/INFO]: Preparing spawn area for eggwarsHUB, 20%
+[17:08:54] [Server thread/INFO]: Preparing spawn area for eggwarsHUB, 40%
+[17:08:55] [Server thread/INFO]: Preparing spawn area for eggwarsHUB, 65%
+[17:08:56] [Server thread/INFO]: Preparing spawn area for eggwarsHUB, 81%
+[17:08:57] [Server thread/INFO]: -------- World Settings For [bedwarsHUB] --------
+[17:08:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:08:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:08:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:08:57] [Server thread/INFO]: View Distance: 10
+[17:08:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:08:57] [Server thread/INFO]: Max TNT Explosions: 100
+[17:08:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:08:57] [Server thread/INFO]: Structure Info Saving: true
+[17:08:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:08:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:08:57] [Server thread/INFO]: Random Lighting Updates: false
+[17:08:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:08:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:08:57] [Server thread/INFO]: Mob Spawn Range: 4
+[17:08:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:08:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:08:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:08:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:08:58] [Server thread/INFO]: Preparing start region for level 7 (Seed: 6309652394747500668)
+[17:08:59] [Server thread/INFO]: Preparing spawn area for bedwarsHUB, 0%
+[17:09:00] [Server thread/INFO]: Preparing spawn area for bedwarsHUB, 20%
+[17:09:01] [Server thread/INFO]: Preparing spawn area for bedwarsHUB, 48%
+[17:09:02] [Server thread/INFO]: Preparing spawn area for bedwarsHUB, 69%
+[17:09:03] [Server thread/INFO]: Preparing spawn area for bedwarsHUB, 93%
+[17:09:03] [Server thread/INFO]: -------- World Settings For [uhcHUB] --------
+[17:09:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:09:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:09:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:09:03] [Server thread/INFO]: View Distance: 10
+[17:09:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:09:03] [Server thread/INFO]: Max TNT Explosions: 100
+[17:09:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:09:03] [Server thread/INFO]: Structure Info Saving: true
+[17:09:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:09:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:09:03] [Server thread/INFO]: Random Lighting Updates: false
+[17:09:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:09:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:09:03] [Server thread/INFO]: Mob Spawn Range: 4
+[17:09:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:09:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:09:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:09:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:09:04] [Server thread/INFO]: Preparing start region for level 8 (Seed: 5130967686280428757)
+[17:09:05] [Server thread/INFO]: Preparing spawn area for uhcHUB, 8%
+[17:09:06] [Server thread/INFO]: Preparing spawn area for uhcHUB, 36%
+[17:09:07] [Server thread/INFO]: Preparing spawn area for uhcHUB, 60%
+[17:09:08] [Server thread/INFO]: Preparing spawn area for uhcHUB, 89%
+[17:09:11] [Server thread/WARN]: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[17:09:11] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[17:09:11] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:989)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:341)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2189)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2222)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2017)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:779)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+[17:09:11] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[17:09:11] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:389)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+[17:09:11] [Server thread/WARN]: 	at java.sql.DriverManager.getConnection(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.sql.DriverManager.getConnection(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at me.myd.usersmanager.main.mysqlSteup(main.java:145)
+[17:09:11] [Server thread/WARN]: 	at me.myd.usersmanager.main.onEnable(main.java:43)
+[17:09:11] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[17:09:11] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+[17:09:11] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403)
+[17:09:11] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:382)
+[17:09:11] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:331)
+[17:09:11] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422)
+[17:09:11] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383)
+[17:09:11] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338)
+[17:09:11] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272)
+[17:09:11] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545)
+[17:09:11] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[17:09:11] [Server thread/WARN]: Caused by: java.net.ConnectException: Connection refused: connect
+[17:09:11] [Server thread/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:09:11] [Server thread/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at java.net.Socket.connect(Unknown Source)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211)
+[17:09:11] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:300)
+[17:09:11] [Server thread/WARN]: 	... 27 more
+[17:09:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:09:11] [Server thread/INFO]: Done (89.052s)! For help, type "help" or "?"
+[17:19:33] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[17:19:50] [User Authenticator #1/INFO]: UUID of player MyDABD is ca32dfb7-26f3-32dc-abf0-c2e01417901e
+[17:20:04] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to SetSkin v1.0.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.PlayerList.onPlayerJoin(PlayerList.java:346) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.PlayerList.a(PlayerList.java:166) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.LoginListener.b(LoginListener.java:159) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.LoginListener.e(LoginListener.java:57) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:233) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:140) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:845) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_161]
+Caused by: java.lang.ClassCastException: org.bukkit.craftbukkit.v1_12_R1.entity.CraftPlayer cannot be cast to com.mojang.authlib.GameProfile
+	at we.ac.setskin.main.skin(main.java:25) ~[?:?]
+	at we.ac.setskin.main.PlayerJoinEvent(main.java:66) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_161]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	... 14 more
+[17:20:07] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to UsersManagerPlugin v1.0.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.PlayerList.onPlayerJoin(PlayerList.java:346) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.PlayerList.a(PlayerList.java:166) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.LoginListener.b(LoginListener.java:159) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.LoginListener.e(LoginListener.java:57) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:233) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:140) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:845) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_161]
+Caused by: java.lang.NullPointerException
+	at me.myd.usersmanager.mysqlSetterGetter.playerExists(mysqlSetterGetter.java:23) ~[?:?]
+	at me.myd.usersmanager.mysqlSetterGetter.playerJoin(mysqlSetterGetter.java:131) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_161]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	... 14 more
+[17:20:07] [Server thread/INFO]: MyDABD[/192.168.1.103:56301] logged in with entity id 2656 at ([LOGINHUB]0.0, 70.0, 0.0)
+[17:20:09] [Server thread/INFO]: MyDABD lost connection: Disconnected
+[17:20:10] [Server thread/INFO]: MyDABD left the game
+[20:08:07] [Spigot Watchdog Thread/ERROR]: The server has stopped responding!
+[20:08:10] [Spigot Watchdog Thread/ERROR]: Please report this to http://www.spigotmc.org/
+[20:08:10] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[20:08:10] [Spigot Watchdog Thread/ERROR]: Spigot version: git-Spigot-3d850ec-809c399 (MC: 1.12.2)
+[20:08:10] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:08:10] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[20:08:20] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:08:20] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[20:08:21] [Spigot Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: RUNNABLE
+[20:08:21] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:08:21] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader.saveBody(ChunkRegionLoader.java:295)
+[20:08:21] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader.access$0(ChunkRegionLoader.java:271)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader$1.get(ChunkRegionLoader.java:142)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader$1.get(ChunkRegionLoader.java:1)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.SupplierUtils.createUnivaluedSupplier(SupplierUtils.java:59)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader.saveChunk(ChunkRegionLoader.java:147)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkProviderServer.saveChunk(ChunkProviderServer.java:209)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkProviderServer.a(ChunkProviderServer.java:232)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.WorldServer.save(WorldServer.java:1052)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_12_R1.CraftWorld.save(CraftWorld.java:755)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:704)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:08:23] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:08:23] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:57] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #3
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:753)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:409)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:57] [Spigot Watchdog Thread/ERROR]: Current Thread: Chunk I/O Executor Thread-1
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: false | State: WAITING
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:57] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #2
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:753)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:409)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:57] [Spigot Watchdog Thread/ERROR]: Current Thread: threadDeathWatcher-2-1
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:152)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:138)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:57] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #1
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	PID: 29 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:753)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:409)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:57] [Spigot Watchdog Thread/ERROR]: Current Thread: File IO Thread
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.server.v1_12_R1.RegionFileCache.a(RegionFileCache.java:18)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.server.v1_12_R1.RegionFileCache.e(RegionFileCache.java:91)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.server.v1_12_R1.ChunkRegionLoader.processSaveQueueEntry(ChunkRegionLoader.java:195)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.String$CaseInsensitiveComparator.compare(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.String.compareToIgnoreCase(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.io.WinNTFileSystem.compare(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.io.File.compareTo(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.io.File.equals(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.HashMap.getNode(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.HashMap.get(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.RegionFileCache.a(RegionFileCache.java:18)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.RegionFileCache.e(RegionFileCache.java:91)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader.b(ChunkRegionLoader.java:212)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader.processSaveQueueEntry(ChunkRegionLoader.java:195)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader.a(ChunkRegionLoader.java:167)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.FileIOThread.c(SourceFile:37)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.FileIOThread.run(SourceFile:30)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:57] [Spigot Watchdog Thread/ERROR]: Current Thread: Abandoned connection cleanup thread
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:57] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #0
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+[20:10:57] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:753)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:409)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 25 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 24 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpThreads0(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:76)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Server console handler
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: true | State: RUNNABLE
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.ReadConsoleInputW(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.readConsoleInputHelper(Kernel32.java:761)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.readConsoleKeyInput(Kernel32.java:794)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.WindowsSupport.readConsoleInput(WindowsSupport.java:97)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal.readConsoleInput(WindowsTerminal.java:215)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal.access$000(WindowsTerminal.java:55)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal$1.read(WindowsTerminal.java:157)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:85)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-4
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedOutputStream.flush(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.FileOutputStream.writeBytes(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.FileOutputStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedOutputStream.flush(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.AnsiOutputStream.write(AnsiOutputStream.java:82)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.FilterOutputStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.io.FilterOutputStream.write(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_12_R1.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:36)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.util.HashMap.putVal(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.util.HashMap.put(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.NBTTagCompound.setString(SourceFile:141)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.GenericAttributes.a(GenericAttributes.java:43)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.GenericAttributes.a(GenericAttributes.java:33)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.EntityLiving.b(EntityLiving.java:462)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.EntityInsentient.b(EntityInsentient.java:298)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.EntityAgeable.b(EntityAgeable.java:136)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.EntityAnimal.b(EntityAnimal.java:63)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.EntitySheep.b(EntitySheep.java:183)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.Entity.save(Entity.java:1530)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.Entity.d(Entity.java:1438)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader.saveEntities(ChunkRegionLoader.java:337)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkRegionLoader.saveChunk(ChunkRegionLoader.java:139)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkProviderServer.saveChunk(ChunkProviderServer.java:209)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.ChunkProviderServer.a(ChunkProviderServer.java:232)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.WorldServer.save(WorldServer.java:1052)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_12_R1.CraftWorld.save(CraftWorld.java:755)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:704)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Server Infinisleeper
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_12_R1.DedicatedServer$1.run(DedicatedServer.java:60)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: NonBlockingInputStreamThread
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 16 | Suspended: false | Native: false | State: WAITING
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Snooper Timer
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 14 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Attach Listener
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 6 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 5 | Suspended: false | Native: false | State: RUNNABLE
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:58] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: WAITING
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference.tryHandlePending(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+[20:10:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[20:10:59] [Spigot Watchdog Thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
+[20:10:59] [Spigot Watchdog Thread/INFO]: Stopping server
+[20:10:59] [Spigot Watchdog Thread/INFO]: [UsersManagerPlugin] Disabling UsersManagerPlugin v1.0.0
+[20:11:02] [Spigot Watchdog Thread/INFO]: [Compass] Disabling Compass v1.0.0
+[20:11:03] [Spigot Watchdog Thread/INFO]: [Login] Disabling Login v1.0.0
+[20:11:03] [Spigot Watchdog Thread/INFO]: [npcsPlugin] Disabling npcsPlugin v1.0.0
+[20:11:03] [Spigot Watchdog Thread/INFO]: [WorldManager] Disabling WorldManager v1.0.0
+[20:11:03] [Spigot Watchdog Thread/INFO]: [SetSkin] Disabling SetSkin v1.0.0
+[20:11:03] [Spigot Watchdog Thread/INFO]: [KB] Disabling KB v1.0.0
+[20:11:03] [Spigot Watchdog Thread/INFO]: [ChatColorFixer] Disabling ChatColorFixer v1.0.0
+[20:11:03] [Spigot Watchdog Thread/INFO]: [BBs] Disabling BBs v1.0.0
+[20:11:03] [Spigot Watchdog Thread/INFO]: Saving players
+[20:11:04] [Spigot Watchdog Thread/INFO]: Saving worlds
+[20:11:04] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'LOGINHUB'/overworld
+[20:11:10] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'LOGINHUB_nether'/the_nether
+[20:11:10] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'LOGINHUB_the_end'/the_end
+[20:11:12] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'Login'/overworld
+[20:11:15] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'hub'/overworld
+[20:11:15] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'skywarsHUB'/overworld
+[20:11:16] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'eggwarsHUB'/overworld
+[20:11:18] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'bedwarsHUB'/overworld
+[20:11:19] [Spigot Watchdog Thread/INFO]: Saving chunks for level 'uhcHUB'/overworld
